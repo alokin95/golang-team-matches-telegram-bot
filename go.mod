@@ -1,3 +1,5 @@
-module github.com/alokin95/golang-team-matches-telegram-bot
+module kadigramo
 
 go 1.21.4
+
+require github.com/joho/godotenv v1.5.1 // indirect
